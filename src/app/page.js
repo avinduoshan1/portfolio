@@ -314,7 +314,7 @@ export default function Home() {
               Say Hello on WhatsApp
             </a>
 
-            <a href="https://linkedin.com/in/avindu-oshan-a7732a321/" target="_blank" rel="noopener noreferrer" className="px-8 py-3 bg-black/50 backdrop-blur-md text-white border border-gray-600 font-bold rounded-full hover:border-white transition-colors duration-300 w-full sm:w-auto">
+            <a href="https://www.linkedin.com/in/avindu-oshan-0b1500424/" target="_blank" rel="noopener noreferrer" className="px-8 py-3 bg-black/50 backdrop-blur-md text-white border border-gray-600 font-bold rounded-full hover:border-white transition-colors duration-300 w-full sm:w-auto">
               LinkedIn
             </a>
             <a href="https://github.com/avinduoshan1" target="_blank" rel="noopener noreferrer" className="px-8 py-3 bg-black/50 backdrop-blur-md text-white border border-gray-600 font-bold rounded-full hover:border-white transition-colors duration-300 w-full sm:w-auto">
