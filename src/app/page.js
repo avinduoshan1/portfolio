@@ -185,9 +185,14 @@ export default function Home() {
             </span>
           </div>
 
-          <a href="#projects" className="bg-white text-black px-8 py-3 rounded-full font-bold tracking-wide hover:bg-red-600 hover:text-white transition-all duration-300 shadow-[0_0_15px_rgba(220,38,38,0.3)] hover:shadow-[0_0_25px_rgba(220,38,38,0.6)] hover:-translate-y-1">
-            Explore My Work
-          </a>
+          <div className="flex flex-col sm:flex-row gap-4">
+            <a href="#projects" className="bg-white text-black px-8 py-3 rounded-full font-bold tracking-wide hover:bg-red-600 hover:text-white transition-all duration-300 shadow-[0_0_15px_rgba(220,38,38,0.3)] hover:shadow-[0_0_25px_rgba(220,38,38,0.6)] hover:-translate-y-1 text-center">
+              Explore My Work
+            </a>
+            <a href="/Avindu_Oshan_CV.pdf" download className="bg-black/50 backdrop-blur-md text-white border border-gray-600 px-8 py-3 rounded-full font-bold tracking-wide hover:border-red-500 hover:text-red-400 transition-all duration-300 hover:-translate-y-1 text-center">
+              Download CV
+            </a>
+          </div>
         </section>
 
 
